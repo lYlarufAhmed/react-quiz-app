@@ -86,4 +86,5 @@ th, td {
 .progress{
     height: 10px;
     background-color: green;
+    align-self: flex-start;
 }
